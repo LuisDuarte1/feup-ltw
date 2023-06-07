@@ -1,3 +1,8 @@
+# LTW Project
+
+On this project, we developed a ticketing system that uses PHP, JS and of course, HTML.
+It supports multiple roles, role and user management and the creation of a ticket (github issues style).
+
 ## Project Group
 
 - Francisco da Ana      | 202108762 |
