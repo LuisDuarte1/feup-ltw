@@ -3,6 +3,14 @@
 On this project, we developed a ticketing system that uses PHP, JS and of course, HTML.
 It supports multiple roles, role and user management and the creation of a ticket (github issues style).
 
+Grade: 19.1
+
+For future students:
+
+- There some things implemented right, like the REST api is implemented with a custom wrapper that simplifies the process.
+- The database and logic is coherent, but maybe the implementation of a mini-ORM could actually simplify the project.
+- The javascript needs refactoring to make the project cleaner in the frontend side (and not to use var).
+
 ## Project Group
 
 - Francisco da Ana      | 202108762 |
